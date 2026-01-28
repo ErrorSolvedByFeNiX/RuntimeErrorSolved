@@ -1,14 +1,14 @@
-[![GitHub Artwork](https://github.com/RuntimeErrorSolved/RuntimeErrorSolved/blob/main/gitartwork.svg)](https://github.com/RuntimeErrorSolved)
+[![GitHub Artwork](https://github.com/ErrorSolvedByFeNiX/ErrorSolvedByFeNiX/blob/main/gitartwork.svg)](https://github.com/ErrorSolvedByFeNiX)
 
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="90"/>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RuntimeErrorSolved&style=flat-circle&color=green" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=ErrorSolvedByFeNiX&style=flat-circle&color=green" alt="profile views"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm RuntimeErrorSolved</h1>
+<h1 align="center">Hi 👋, I'm ErrorSolvedByFeNiX</h1>
 <h3 align="center">Data Science • Cybersecurity • Backend Systems</h3>
 
 ---
@@ -68,7 +68,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RuntimeErrorSolved&theme=algolia&no-frame=true&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ErrorSolvedByFeNiX&theme=algolia&no-frame=true&row=1"/>
 </p>
 
 ---
@@ -76,15 +76,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RuntimeErrorSolved&show_icons=true&theme=algolia&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ErrorSolvedByFeNiX&show_icons=true&theme=algolia&count_private=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RuntimeErrorSolved&theme=algolia"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErrorSolvedByFeNiX&theme=algolia"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuntimeErrorSolved&layout=compact&theme=algolia"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErrorSolvedByFeNiX&layout=compact&theme=algolia"/>
 </p>
 
 ---
